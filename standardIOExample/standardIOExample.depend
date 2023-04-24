@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1682362713 source:/home/mphomahlangu/Desktop/coding-projects/c-programming/standardIOExample/main.c
+	<stdio.h>
+	<stdlib.h>
+
